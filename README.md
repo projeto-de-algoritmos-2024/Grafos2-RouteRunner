@@ -36,7 +36,7 @@ Para executar o projeto, você precisa ter instalado:
       ```
    - Navegue até a pasta do projeto com:
      ```bash
-     cd Grafos2-RouteRunner/dijkstra-app
+     cd Grafos2-RouteRunner
      ```
 2. Instalar Dependências:
    - No diretório do projeto, execute o comando para instalar as dependências:
