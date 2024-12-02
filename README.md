@@ -79,5 +79,4 @@ Este projeto demonstra como algoritmos complexos podem ser aplicados de forma pr
 ## Demonstração em Vídeo
 Para mais detalhes, assista à [demonstração em vídeo do projeto](https://youtu.be/sR68V6cOgwM).
 
-<video controls src="video.mp4" title="Dijkstra"></video>
 
