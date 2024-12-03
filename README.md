@@ -77,6 +77,6 @@ Para executar o projeto, você precisa ter instalado:
 Este projeto demonstra como algoritmos complexos podem ser aplicados de forma prática e visual, conectando teoria e prática de maneira intuitiva e acessível.
 
 ## Demonstração em Vídeo
-Para mais detalhes, assista à [demonstração em vídeo do projeto](https://youtu.be/sR68V6cOgwM).
+Para mais detalhes, assista à [demonstração em vídeo do projeto](https://youtu.be/rxaPu0vttlU).
 
 
